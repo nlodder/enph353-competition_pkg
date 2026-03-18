@@ -1,5 +1,7 @@
 # 2025 Fizz Detective competition [IN PROGRESS]
 
+**Credit: This repo was cloned from https://github.com/ENPH353/2025_competition.git on 2026-03-17**
+
 The repository contains the following ROS packages:
 
 | Folders         | Description      |

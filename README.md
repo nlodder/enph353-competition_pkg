@@ -21,7 +21,7 @@ cd ~/ros_ws/src
 
 * Clone the repository into a catkin workspace src folder.
 ```
-git clone https://github.com/ENPH353/2024_competition.git
+git clone https://github.com/nlodder/2025_competition.git
 ```
 
 * Build the packages
@@ -39,7 +39,7 @@ source devel/setup.bash
 
 * Start the simulated world
 ```
-cd src/2024_competition/enph353/enph353_utils/scripts
+cd src/2025_competition/enph353/enph353_utils/scripts
 ./run_sim.sh -vpgw
 ```
 The available options are:
